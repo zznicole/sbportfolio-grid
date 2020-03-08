@@ -266,3 +266,42 @@ header {
 div a:hover {
     color: rgb(190, 16, 190);
 }
+
+.divider__1 {
+    width: 1110px;
+    height: 2px;
+    margin-top: 101px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #D8D8D8;
+}
+
+.divider__2 {
+    width: 1110px;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #D8D8D8;
+}
+
+.award {
+    width: 1110px;
+    height: 409px;
+    margin-top: 50px;
+    margin-bottom: 58px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.award-detail {
+    width: 635px;
+    height: 409px;
+}
+
+.divider__3 {
+    width: 1110px;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #D8D8D8;
+}
