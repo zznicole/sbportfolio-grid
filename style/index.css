@@ -119,8 +119,89 @@ header {
     mix-blend-mode: normal;
     opacity: 0.6;
 }
-    
+   
+.frame {
+    width: 1110px;
+    height: 1960px;
+    margin-top: 144px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-rows: 32;
+    grid-template-columns: 9;
+}
 
+.project_1 {
+    width: 357px;
+    height: 413px;
+    grid-area: 1/1/8/4;
+}
 
+.project_2 {
+    width: 356px;
+    height: 351px;
+    grid-area: 1/4/7/7;
+}
 
+.project_3 {
+    width: 350px;
+    height: 599px;
+    margin-left: 7px;
+    grid-area: 1/7/11/10;
+}
 
+.project_4 {
+    width: 357px;
+    height: 475px;
+    grid-area: 8/1/16/4;
+}
+
+.project_5 {
+    width: 350px;
+    height: 413px;
+    grid-area: 7/4/14/7;
+}
+
+.project_6 {
+    width: 357px;
+    height: 413px;
+    grid-area: 11/7/18/10;
+}
+
+.project_7 {
+    width: 357px;
+    height: 475px;
+    grid-area: 16/1/24/4;
+}
+
+.project_8 {
+    width: 356px;
+    height: 537px;
+    grid-area: 14/4/23/7;
+}
+
+.project_9 {
+    width: 357px;
+    height: 537px;
+    grid-area: 18/7/27/10;
+}
+
+.project_10 {
+    width: 357px;
+    height: 537px;
+    grid-area: 24/1/33/4;
+}
+
+.project_11 {
+    width: 356px;
+    height: 599px;
+    grid-area: 23/4/33/7;
+}
+
+.project_12 {
+    width: 350px;
+    height: 351px;
+    margin-left: 7px;
+    grid-area: 27/7/33/10;
+}
