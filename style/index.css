@@ -286,7 +286,6 @@ div a:hover {
 .awards {
     width: 1110px;
     height: 823px;
-    margin-bottom: 114px;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -389,4 +388,51 @@ div a:hover {
     margin-left: auto;
     margin-right: auto;
     background: #D8D8D8;
+}
+
+footer {
+    width: 1110px;
+    height: 23px;
+    margin-top: 114px;
+    margin-bottom: 47px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer__logo {
+    width: 90.13px;
+    height: 19.34px;
+    margin-right: 667px;
+}
+
+.footer__links {
+    width: 163px;
+    height: 23px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.3;
+    color: #111111;
+    letter-spacing: -0.346154px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer__icons {
+    width: 95px;
+    height: 15px;
+    display: flex;
+    justify-items: space-between;
+}
+
+.instagram {
+    margin-right: 23px;
+}
+
+.ball {
+    margin-right: 24px;
 }
