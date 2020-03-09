@@ -4,7 +4,6 @@ body {
     margin: 0px;
 }
 
-
 nav {
     width: 1109px;
     height: 23px;
@@ -44,7 +43,7 @@ a {
 }
 
 li a:hover {
-    color: rgb(190, 16, 190)
+    color: rgb(190, 16, 190);
 }
     
 header {
@@ -283,6 +282,7 @@ div a:hover {
     margin-right: auto;
     background: #D8D8D8;
 }
+
 .awards {
     width: 1110px;
     height: 823px;
@@ -300,7 +300,6 @@ div a:hover {
     margin-bottom: 53px;
     display: flex;
     justify-content: space-between;
-   
 }
 
 .award__title {
@@ -359,7 +358,7 @@ div a:hover {
     font-size: 16px;
     line-height: 1.3;
     text-align: center;
-    color: #111111
+    color: #111111;
 }
 
 .award__detail--ui--title {
@@ -368,7 +367,7 @@ div a:hover {
     font-weight: normal;
     font-size: 16px;
     line-height: 1.3;
-    color: #111111
+    color: #111111;
 }
 
 .award__detail--ui--content {
